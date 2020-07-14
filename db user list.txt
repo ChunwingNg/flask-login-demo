@@ -1,0 +1,7 @@
+admin admin@admin.admin admin1234 YES
+
+chunwing test@test.com random12345 NO
+
+bobby bob@bob.com bob12345 NO
+
+michael michael@mmmm.com michael12345 YES
